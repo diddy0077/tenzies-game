@@ -4,8 +4,7 @@ A simple and addictive dice game built with React, where the goal is to roll unt
 
 🔗 Live Demo
 👉 Play the Game
-(Replace with your Netlify/Vercel URL)
-
+(https://diddy0077.github.io/tenzies-game/)
 🧩 How to Play
 Click Roll to roll the dice.
 
@@ -18,7 +17,7 @@ Keep rolling until all dice show the same number.
 🛠️ Built With
 ⚛️ React (Functional Components + Hooks)
 
-🎨 CSS / Tailwind CSS (if you used it)
+🎨 Tailwind CSS
 
 🔁 State Management with useState and useEffect
 
