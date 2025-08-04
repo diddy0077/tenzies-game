@@ -48,7 +48,7 @@ Clone the repo and run it locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/tenzies-game.git
+git clone https://github.com/diddy0077/tenzies-game.git
 cd tenzies-game
 npm install
 npm run dev
